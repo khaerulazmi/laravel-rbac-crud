@@ -82,3 +82,7 @@ php artisan serve
 - Frontend: Blade + Tailwind CSS
 - Authentication: Laravel Breeze / Fortify
 - Role Access: Middleware & Gates
+
+Akses admin
+email: admin@gmail.com
+password: @Admin123
